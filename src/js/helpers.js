@@ -67,3 +67,8 @@ export const sendJSON = async function (url, uploadData) {
   }
 };
 */
+
+const welome = function(){
+  console.log('WELCOME');
+  
+}
